@@ -1,0 +1,7 @@
+scapy
+
+
+install command:
+pip install scapy
+or
+yay -S scapy, sudo pacman -S scapy [for ARCH] 
